@@ -1,0 +1,13 @@
+Username: admin
+Password: ÐÐçÑÏÔ
+Fri Nov 09 07:41:54 ALMT 2018 admin logged in to system
+Fri Nov 09 07:42:25 ALMT 2018 admin logged in to system
+Fri Nov 09 07:42:58 ALMT 2018 admin logged in to system
+Fri Nov 09 07:43:42 ALMT 2018 admin logged in to system
+Fri Nov 09 07:46:07 ALMT 2018 admin added new course "OOP"
+Fri Nov 09 07:46:07 ALMT 2018 admin added new Instructor "Dairov Olzhas"
+Fri Nov 09 07:46:08 ALMT 2018 admin added new Textbook "OOP"
+Fri Nov 09 14:01:13 ALMT 2018 admin logged in to system
+Fri Nov 09 14:01:38 ALMT 2018 admin added new course "opo"
+Fri Nov 09 14:01:38 ALMT 2018 admin added new Instructor "sdfgh sdfgh"
+Fri Nov 09 14:01:38 ALMT 2018 admin added new Textbook "dflsfj"
